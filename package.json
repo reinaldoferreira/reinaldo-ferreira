@@ -1,0 +1,9 @@
+{
+  "name": "reinaldo-ferreira",
+  "version": "1.0.0",
+  "description": "my space to write about stuff",
+  "main": "index.js",
+  "repository": "git@github.com:reinaldoferreira/reinaldo-ferreira.git",
+  "author": "Reinaldo Ferreira <reinaldocesarferreira@gmail.com>",
+  "license": "MIT"
+}
